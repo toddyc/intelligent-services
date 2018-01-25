@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Steward Bank Intelligent Services Bot</title>
+    <link rel="stylesheet" type="text/css" href="qiscus-sdk.2.5.9.css">
+  </head>
+<body>
+<div id="qiscus-widget"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/lib/js/emojione.min.js"></script>
+<script src="qiscus-sdk.2.5.9.js"></script>
+<script src="demoFunctions.js"></script>
+<script src=".ApiAi.js"></script>
+<script type="text/javascript">
+QiscusSDK.core.init({
+  AppId: 'mtungadzo-oyelyupdvgl',
+  options: {
+    loginSuccessCallback: function (userData) {
+      QiscusSDK.core.UI.chatTarget('userId')
+    }
+
+  }
+});
+QiscusSDK.core.setUser('userId', 'userKey', 'Steward Bank Intelligent Services', 'http://some-url.com/avatar.png')
+QiscusSDK.render();
+
+
+
+    </script>
+    <script defer src="layout.js"></script>
+  </body>
+</html>
