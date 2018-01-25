@@ -46,7 +46,7 @@ ul#messages__comments{list-style:none;background:#fff;margin:0;height:402px;over
 ul#messages__comments::-webkit-scrollbar{width:9px;background-color:#ddd;opacity:.3}
 ul#messages__comments::-webkit-scrollbar:hover{transition:opacity .32s ease;opacity:1}
 ul#messages__comments::-webkit-scrollbar-thumb{border-radius:10px;-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3);background-color:ul#messages__comments::-webkit-scrollbar-thumb}
-.qcw-comment-form{background: #a09e9e;overflow:hidden;position:relative;height:50px;padding:10px}
+.qcw-comment-form{background: #662D91;overflow:hidden;position:relative;height:50px;padding:10px}
 .qcw-comment-form *{box-sizing:border-box}
 .qcw-comment-form .uploader{position:absolute;bottom:13px;right:7px}
 .qcw-comment-form textarea{width:calc(100% - 70px);border:0;font-family:inherit;font-size:14px;padding:7px 10px;max-height:100%;resize:none;outline:none}
