@@ -80,7 +80,7 @@ ul#messages__comments::-webkit-scrollbar-thumb{border-radius:10px;-webkit-box-sh
 .qcw-comment__content{white-space:pre-wrap;word-break:break-word;word-wrap:break-word;padding-right:50px;font-size:13.6px}
 .qcw-comment__message{line-height:1.7em;min-height:30px;margin-bottom:10px;max-width:70%;background:#fff;padding:10px;position:relative;word-break:break-word;box-shadow:0 3px 5px rgba(0,0,0,.2);color:#444;text-align:left}
 .qcw-comment__message a{transition:all .32s ease;color:#039be5;text-decoration:underline}
-.comment--me .qcw-comment__message{background:#fffcd8;color:#444}
+.comment--me .qcw-comment__message{background:#d0c9cp;color:#444}
 .comment--parent .qcw-comment__message{border-radius:8px 8px 8px 0;margin-top:9px;min-width:200px;padding:10px}
 .comment--parent.comment--me .qcw-comment__message{border-radius:8px 0 0 8px}
 .comment--mid .qcw-comment__message{border-radius:0 8px 8px 0}
