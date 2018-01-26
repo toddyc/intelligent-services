@@ -123,10 +123,10 @@ pre{background:#ccc;padding:5px}
 code{background:transparent}.action_buttons{background:#e5e5e5;padding:10px;margin:10px -10px -10px;display:flex;justify-content:space-between;border-top:1px solid rgba(0,0,0,.05)}
 .action_buttons a,.action_buttons button{flex-grow:1;border:0;color:#2d9cdb;font-weight:700;background:transparent;cursor:pointer;display:inline-block;margin:0 auto;text-align:center;text-decoration:none;font-size:1.2em}
 .action_buttons a:hover,.action_buttons button:hover{color:#8bd5f9}
-.reply-wrapper{border-radius:4px;background-color:#f4f2cc;padding:10px 10px 10px 20px;position:relative;font-size:12px;text-align:left;color:#757575;max-height:150px;overflow:hidden;scroll-behavior:smooth;margin-bottom:10px}
+.reply-wrapper{border-radius:4px;background-color:#transparrent;padding:10px 10px 10px 20px;position:relative;font-size:12px;text-align:left;color:#757575;max-height:150px;overflow:hidden;scroll-behavior:smooth;margin-bottom:10px}
 .reply-preview .reply-wrapper{margin-bottom:0}
 .reply-wrapper:after{content:'';position:absolute;top:10px;left:10px;width:4px;height:calc(100% - 20px);background:#009688;border-radius:100px}
-.reply-sender{font-size:14px;text-align:left;color:#009688}
+.reply-sender{font-size:14px;text-align:left;color:#000}
 .reply-preview{position:absolute;bottom:40px;width:100%;max-height:50%;line-height:1.7em;overflow-y:scroll;scroll-behavior:smooth;z-index:2}
 .reply-preview__close-btn{position:absolute;top:9px;right:5px;cursor:pointer;color:#aaa}
 .reply-btn{position:absolute;right:-20px;border-radius:50%;color:#fff;padding-left:3px;top:8px;display:none;cursor:pointer}
