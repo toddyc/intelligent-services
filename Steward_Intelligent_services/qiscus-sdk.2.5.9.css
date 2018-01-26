@@ -56,7 +56,7 @@ ul#messages__comments::-webkit-scrollbar-thumb{border-radius:10px;-webkit-box-sh
 .comment-loading-container .loader{border-width:15px;position:absolute;display:block;top:50%;margin-top:-75px;left:50%;margin-left:-75px}
 .qcw-form-actions{position:absolute;top:-9px;right:5px;display:flex}
 .qcw-form-actions li{width:35px;height:35px;border-radius:50%;cursor:pointer;display:flex;flex-direction:column;justify-content:center;align-items:center}
-.qcw-form-actions li:hover{background:#4db6ac}
+.qcw-form-actions li:hover{background:#000}
 .qcw-form-actions li:hover .qc-icon{fill:#fff}
 .qcw-form-actions i{font-size:15px;color:#666;cursor:pointer;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}
 .qcw-attachment__actions{position:absolute;bottom:50px;right:-150%;list-style:none;margin:0;transition:all .32s ease}
