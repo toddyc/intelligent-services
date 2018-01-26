@@ -41,7 +41,7 @@ ul.qcw-carousel__nav li[data-v-23166a5c]:nth-child(2){right:0}
 .qcw-header i{position:absolute;cursor:pointer;right:10px;top:15px}
 .qcw-app--wide-mode .qcw-header i{display:none}
 .qcw-container .messages{flex:3;display:flex;flex-flow:column;background:#444}
-ul#messages__comments{list-style:none;background:#fff;margin:0;height:402px;overflow:hidden;overflow-y:auto;padding:6px 0px}
+ul#messages__comments{list-style:none;background:transparent;margin:0;height:402px;overflow:hidden;overflow-y:auto;padding:6px 0px}
 .qcw-app--wide-mode ul#messages__comments{height:calc(100% - 100px)}
 ul#messages__comments::-webkit-scrollbar{width:9px;background-color:#ddd;opacity:.3}
 ul#messages__comments::-webkit-scrollbar:hover{transition:opacity .32s ease;opacity:1}
